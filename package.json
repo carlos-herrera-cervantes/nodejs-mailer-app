@@ -1,0 +1,17 @@
+{
+  "name": "excersice2",
+  "version": "1.0.0",
+  "description": "The second excersice for NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Carlos Herrera Cervantes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "pug": "*",
+    "nodemailer": "*"
+  }
+}
